@@ -1,1 +1,1 @@
-SUMMARY.mdx
+SUMMARY.md
